@@ -3,6 +3,7 @@ name = "axum_query_filters"
 version = "0.0.0"
 license = "MIT"
 authors = ["Ruslan Ivlev <tokyo-jager@yadex.ru>"]
+description = "desc"
 edition = "2021"
 
 [dependencies]
