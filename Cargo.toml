@@ -1,0 +1,14 @@
+[package]
+name = "axum_query_filters"
+version = "0.0.0"
+license = "MIT"
+authors = ["Ruslan Ivlev <tokyo-jager@yadex.ru>"]
+edition = "2021"
+
+[dependencies]
+axum = "0.7.5"
+
+[lib]
+name ="axum_query_filters"
+path = "src/lib.rs"
+
